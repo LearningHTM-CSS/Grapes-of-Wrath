@@ -1,6 +1,6 @@
 
-<!doctype html>
-<html lang="eng-US">
+<!doctype php>
+<php lang="eng-US">
   <head>
     <meta charset="utf-8">
     <title>Table of Contents</title>
@@ -13,4 +13,4 @@
           <br>
           <li><a href="ARQUIZES.html"<h2><b>Answers to AR Quizzes</b></h2></a></li>
           <br>
-</html>
+</php>
