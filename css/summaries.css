@@ -1,6 +1,16 @@
 h1 {color:#8B5A2B}
 html {background-color:#F5F5DC; text-align: center;}
-p {color:#CDB79E}
+p {color:black}
 li {color:#CDB79E;}
 div,h2 {color:#8B5A2B}
 span {color:#8B5A2B}
+
+
+
+
+
+
+
+
+{li:CDB79E}
+{div,h2:8B5A2B}
